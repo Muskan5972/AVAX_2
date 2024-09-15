@@ -13,11 +13,11 @@ import (
 
 const (
 	// Hyperchain name
-	HRP = "muskan"
+	HRP = "muskanchain"
 	// Name of the hyperchain
-	Name = "Muskan"
+	Name = "muskan"
 	// Token symbol for the hyperchain
-	Symbol = "MUSK"
+	Symbol = "MSN"
 )
 
 var ID ids.ID
